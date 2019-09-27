@@ -1,1 +1,5 @@
+# node deps
 node_modules/
+
+# compiled stuff
+lib/
